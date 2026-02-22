@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Serhii, Frontend Developer 💻
 # 💫 About Me:
 I'm a Frontend Developer specializing in creating modern, responsive web applications from scratch. I focus <br>on writing clean, optimized code and building visually appealing, user-friendly interfaces. <br>I constantly improve performance and usability to deliver high-quality web experiences.
 # 💻 Tech Stack:
@@ -8,4 +7,5 @@ I'm a Frontend Developer specializing in creating modern, responsive web applica
 ![](https://github-readme-stats.vercel.app/api?username=aCTORr8&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aCTORr8&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aCTORr8&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
